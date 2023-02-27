@@ -49,15 +49,18 @@ footer {
 }
 h2 {
   color: #1976d2; /* c#1976d2 */
-  text-shadow: 1px 1px #404040;
+  text-shadow: 1px 1px #251636c2;
 }
 h3 {
-  color: #003; /* c#003 */
+  color: #003; /* #003 */
+  margin-top: 0px;
 }
 
 dt {
   color: #002171; /* c#002171 */
+  font-weight: bold;
 }
+
 footer {
   font-size: 75%; /* fz75% */
   font-style: italic; /* fsi */
